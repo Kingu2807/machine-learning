@@ -1,0 +1,23 @@
+# Dépendances des TP de Machine Learning
+# Installer avec :  pip install -r requirements.txt
+
+# Manipulation et analyse de données
+pandas
+numpy
+scipy
+openpyxl        # lecture des fichiers Excel (.xlsx) — utilisé par TP2
+
+# Machine Learning
+scikit-learn
+
+# Visualisation
+matplotlib
+seaborn
+graphviz        # visualisation des arbres de décision — TP1 Decision Tree
+
+# Téléchargement de jeux de données
+kagglehub       # dataset Bitcoin — TP BTC (compte Kaggle requis)
+
+# Environnement notebook
+jupyterlab
+ipykernel
